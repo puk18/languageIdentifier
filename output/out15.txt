@@ -1,0 +1,178 @@
+15) Alles Gute zum Geburtstag.
+
+UNIGRAM MODEL: 
+UNIGRAM :a
+ENGLISH: P(a)=0.0828122379549==>log probab of sentence so far-2.49117942712
+FRENCH: P(a)=0.0844837267642==>log probab of sentence so far-2.47119634584
+OTHER: P(a)=0.0586235407305==>log probab of sentence so far-2.83661894412
+UNIGRAM :l
+ENGLISH: P(l)=0.0446530277983==>log probab of sentence so far-5.60001258925
+FRENCH: P(l)=0.0540083280463==>log probab of sentence so far-5.38981336707
+OTHER: P(l)=0.037881154475==>log probab of sentence so far-6.10992047808
+UNIGRAM :l
+ENGLISH: P(l)=0.0446530277983==>log probab of sentence so far-8.70884575138
+FRENCH: P(l)=0.0540083280463==>log probab of sentence so far-8.3084303883
+OTHER: P(l)=0.037881154475==>log probab of sentence so far-9.38322201205
+UNIGRAM :e
+ENGLISH: P(e)=0.120842943922==>log probab of sentence so far-10.822109312
+FRENCH: P(e)=0.170116753083==>log probab of sentence so far-10.0797006831
+OTHER: P(e)=0.167926464476==>log probab of sentence so far-11.1674511189
+UNIGRAM :s
+ENGLISH: P(s)=0.0666294222321==>log probab of sentence so far-13.5307183357
+FRENCH: P(s)=0.0858226315751==>log probab of sentence so far-12.5351732191
+OTHER: P(s)=0.0665436683924==>log probab of sentence so far-13.8773479982
+UNIGRAM :g
+ENGLISH: P(g)=0.0217346323147==>log probab of sentence so far-17.3595666671
+FRENCH: P(g)=0.00939712820962==>log probab of sentence so far-17.2025243651
+OTHER: P(g)=0.0322590119376==>log probab of sentence so far-17.311305833
+UNIGRAM :u
+ENGLISH: P(u)=0.0285584225784==>log probab of sentence so far-20.915370042
+FRENCH: P(u)=0.0621555200653==>log probab of sentence so far-19.9806400117
+OTHER: P(u)=0.0374174634409==>log probab of sentence so far-20.5969235796
+UNIGRAM :t
+ENGLISH: P(t)=0.0932341455234==>log probab of sentence so far-23.2880112981
+FRENCH: P(t)=0.0682170542636==>log probab of sentence so far-22.6657006945
+OTHER: P(t)=0.0662268276858==>log probab of sentence so far-23.3115932257
+UNIGRAM :e
+ENGLISH: P(e)=0.120842943922==>log probab of sentence so far-25.4012748588
+FRENCH: P(e)=0.170116753083==>log probab of sentence so far-24.4369709894
+OTHER: P(e)=0.167926464476==>log probab of sentence so far-25.0958223326
+UNIGRAM :z
+ENGLISH: P(z)=0.000671924448249==>log probab of sentence so far-32.7066395107
+FRENCH: P(z)=0.00149058901602==>log probab of sentence so far-30.9455549137
+OTHER: P(z)=0.0115540057654==>log probab of sentence so far-29.5565454152
+UNIGRAM :u
+ENGLISH: P(u)=0.0285584225784==>log probab of sentence so far-36.2624428856
+FRENCH: P(u)=0.0621555200653==>log probab of sentence so far-33.7236705603
+OTHER: P(u)=0.0374174634409==>log probab of sentence so far-32.8421631618
+UNIGRAM :m
+ENGLISH: P(m)=0.024688050635==>log probab of sentence so far-39.963878818
+FRENCH: P(m)=0.0308881547762==>log probab of sentence so far-37.2010530694
+OTHER: P(m)=0.0256988073083==>log probab of sentence so far-36.5034738582
+UNIGRAM :g
+ENGLISH: P(g)=0.0217346323147==>log probab of sentence so far-43.7927271494
+FRENCH: P(g)=0.00939712820962==>log probab of sentence so far-41.8684042154
+OTHER: P(g)=0.0322590119376==>log probab of sentence so far-39.9374316931
+UNIGRAM :e
+ENGLISH: P(e)=0.120842943922==>log probab of sentence so far-45.90599071
+FRENCH: P(e)=0.170116753083==>log probab of sentence so far-43.6396745102
+OTHER: P(e)=0.167926464476==>log probab of sentence so far-41.7216607999
+UNIGRAM :b
+ENGLISH: P(b)=0.0181125566017==>log probab of sentence so far-49.9171405563
+FRENCH: P(b)=0.00896249462177==>log probab of sentence so far-48.3543811834
+OTHER: P(b)=0.0220400091492==>log probab of sentence so far-45.5365566795
+UNIGRAM :u
+ENGLISH: P(u)=0.0285584225784==>log probab of sentence so far-53.4729439312
+FRENCH: P(u)=0.0621555200653==>log probab of sentence so far-51.1324968299
+OTHER: P(u)=0.0374174634409==>log probab of sentence so far-48.8221744261
+UNIGRAM :r
+ENGLISH: P(r)=0.0545957672027==>log probab of sentence so far-56.3807428542
+FRENCH: P(r)=0.0650914845362==>log probab of sentence so far-53.8644583741
+OTHER: P(r)=0.0779000937172==>log probab of sentence so far-51.3745025492
+UNIGRAM :t
+ENGLISH: P(t)=0.0932341455234==>log probab of sentence so far-58.7533841103
+FRENCH: P(t)=0.0682170542636==>log probab of sentence so far-56.549519057
+OTHER: P(t)=0.0662268276858==>log probab of sentence so far-54.0891721953
+UNIGRAM :s
+ENGLISH: P(s)=0.0666294222321==>log probab of sentence so far-61.4619931341
+FRENCH: P(s)=0.0858226315751==>log probab of sentence so far-59.004991593
+OTHER: P(s)=0.0665436683924==>log probab of sentence so far-56.7990690745
+UNIGRAM :t
+ENGLISH: P(t)=0.0932341455234==>log probab of sentence so far-63.8346343902
+FRENCH: P(t)=0.0682170542636==>log probab of sentence so far-61.6900522759
+OTHER: P(t)=0.0662268276858==>log probab of sentence so far-59.5137387206
+UNIGRAM :a
+ENGLISH: P(a)=0.0828122379549==>log probab of sentence so far-66.3258138173
+FRENCH: P(a)=0.0844837267642==>log probab of sentence so far-64.1612486217
+OTHER: P(a)=0.0586235407305==>log probab of sentence so far-62.3503576647
+UNIGRAM :g
+ENGLISH: P(g)=0.0217346323147==>log probab of sentence so far-70.1546621487
+FRENCH: P(g)=0.00939712820962==>log probab of sentence so far-68.8285997677
+OTHER: P(g)=0.0322590119376==>log probab of sentence so far-65.7843154996
+According to the unigram model, the sentence is in German
+---------------------
+BIGRAM :al
+ENGLISH: P(l|a)=0.104563406718==>log probab of sentence so far-2.25796162873
+FRENCH: P(l|a)=0.0632753707275==>log probab of sentence so far-2.76025911358
+GERMAN: P(l|a)=0.0858967615899==>log probab of sentence so far-2.45460915047
+BIGRAM :ll
+ENGLISH: P(l|l)=0.137383334533==>log probab of sentence so far-4.24294182689
+FRENCH: P(l|l)=0.0800403118867==>log probab of sentence so far-5.28548398622
+GERMAN: P(l|l)=0.125234163602==>log probab of sentence so far-4.53217913579
+BIGRAM :le
+ENGLISH: P(e|l)=0.193406751602==>log probab of sentence so far-5.88590161342
+FRENCH: P(e|l)=0.386357608869==>log probab of sentence so far-6.23647587678
+GERMAN: P(e|l)=0.184578736789==>log probab of sentence so far-6.22185828466
+BIGRAM :es
+ENGLISH: P(s|e)=0.10944903754==>log probab of sentence so far-8.09819786208
+FRENCH: P(s|e)=0.184845798455==>log probab of sentence so far-7.92470920012
+GERMAN: P(s|e)=0.0824368784888==>log probab of sentence so far-8.71758067238
+BIGRAM :sg
+ENGLISH: P(g|s)=0.00619150002425==>log probab of sentence so far-13.1827757535
+FRENCH: P(g|s)=0.00618289957829==>log probab of sentence so far-13.0106771302
+GERMAN: P(g|s)=0.0263639255607==>log probab of sentence so far-12.3533393317
+BIGRAM :gu
+ENGLISH: P(u|g)=0.0281574100998==>log probab of sentence so far-16.7527204763
+FRENCH: P(u|g)=0.0886360443883==>log probab of sentence so far-15.4338938128
+GERMAN: P(u|g)=0.0328259574238==>log probab of sentence so far-15.7698750234
+BIGRAM :ut
+ENGLISH: P(t|u)=0.149182156134==>log probab of sentence so far-18.6553076716
+FRENCH: P(t|u)=0.0779127783424==>log probab of sentence so far-17.9860591172
+GERMAN: P(t|u)=0.0602322206096==>log probab of sentence so far-18.5794228672
+BIGRAM :te
+ENGLISH: P(e|t)=0.0817485426879==>log probab of sentence so far-21.1594149674
+FRENCH: P(e|t)=0.205930703085==>log probab of sentence so far-19.5662746767
+GERMAN: P(e|t)=0.29201736629==>log probab of sentence so far-19.8103648721
+BIGRAM :ez
+ENGLISH: P(z|e)=0.000582223376716==>log probab of sentence so far-28.6080713425
+FRENCH: P(z|e)=0.00551511328571==>log probab of sentence so far-24.7665377618
+GERMAN: P(z|e)=0.00761524527744==>log probab of sentence so far-24.6879679554
+BIGRAM :zu
+ENGLISH: P(u|z)=0.00696055684455==>log probab of sentence so far-33.5755671439
+FRENCH: P(u|z)=0.0123674911661==>log probab of sentence so far-29.159221691
+GERMAN: P(u|z)=0.26219065749==>log probab of sentence so far-26.026651295
+BIGRAM :um
+ENGLISH: P(m|u)=0.0333828996283==>log probab of sentence so far-36.9752786412
+FRENCH: P(m|u)=0.0226369768086==>log probab of sentence so far-32.9473922587
+GERMAN: P(m|u)=0.0584765204364==>log probab of sentence so far-28.8657812603
+BIGRAM :mg
+ENGLISH: P(g|m)=0.00162768782661==>log probab of sentence so far-43.3958734237
+FRENCH: P(g|m)=0.000274549281596==>log probab of sentence so far-41.1477720396
+GERMAN: P(g|m)=0.0286284728097==>log probab of sentence so far-32.4191347639
+BIGRAM :ge
+ENGLISH: P(e|g)=0.110691092372==>log probab of sentence so far-45.5968853326
+FRENCH: P(e|g)=0.291052114061==>log probab of sentence so far-42.3820249814
+GERMAN: P(e|g)=0.468013650398==>log probab of sentence so far-33.1783925799
+BIGRAM :eb
+ENGLISH: P(b|e)=0.0205211347086==>log probab of sentence so far-49.4831852951
+FRENCH: P(b|e)=0.00735632575822==>log probab of sentence so far-47.2942196699
+GERMAN: P(b|e)=0.0273240492826==>log probab of sentence so far-36.7783806184
+BIGRAM :bu
+ENGLISH: P(u|b)=0.14727293737==>log probab of sentence so far-51.3986529921
+FRENCH: P(u|b)=0.017592728339==>log probab of sentence so far-51.3344892948
+GERMAN: P(u|b)=0.0435534591195==>log probab of sentence so far-39.9121467685
+BIGRAM :ur
+ENGLISH: P(r|u)=0.115724907063==>log probab of sentence so far-53.5551923872
+FRENCH: P(r|u)=0.158112353322==>log probab of sentence so far-53.1789386965
+GERMAN: P(r|u)=0.109813193502==>log probab of sentence so far-42.1211213663
+BIGRAM :rt
+ENGLISH: P(t|r)=0.0785884390561==>log probab of sentence so far-56.0987230634
+FRENCH: P(t|r)=0.0391788985763==>log probab of sentence so far-56.4185556752
+GERMAN: P(t|r)=0.0664028842229==>log probab of sentence so far-44.8331361526
+BIGRAM :ts
+ENGLISH: P(s|t)=0.0424387813047==>log probab of sentence so far-59.2584157448
+FRENCH: P(s|t)=0.0582321699545==>log probab of sentence so far-59.2618730038
+GERMAN: P(s|t)=0.0639383123801==>log probab of sentence so far-47.5829726821
+BIGRAM :st
+ENGLISH: P(t|s)=0.192615464201==>log probab of sentence so far-60.9054752358
+FRENCH: P(t|s)=0.0571078143114==>log probab of sentence so far-62.1246873224
+GERMAN: P(t|s)=0.21405280738==>log probab of sentence so far-49.1245052131
+BIGRAM :ta
+ENGLISH: P(a|t)=0.0665438236623==>log probab of sentence so far-63.6153697817
+FRENCH: P(a|t)=0.129404822121==>log probab of sentence so far-64.1694969548
+GERMAN: P(a|t)=0.0748455145962==>log probab of sentence so far-51.7168343082
+BIGRAM :ag
+ENGLISH: P(g|a)=0.0220805797782==>log probab of sentence so far-67.4284265816
+FRENCH: P(g|a)=0.0241975392911==>log probab of sentence so far-67.8910012879
+GERMAN: P(g|a)=0.03998797806==>log probab of sentence so far-54.9360107267
+According to the bigram model, the sentence is in German
