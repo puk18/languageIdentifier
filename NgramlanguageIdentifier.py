@@ -261,9 +261,7 @@ if __name__ == "__main__":
 
     
 
-#    ngramPrint(unigramPairsEn)
-#    ngramPrint(bigramPairsEn)
-#    ngramPrint(triGramPairsEn)
+
     unigramprobabListEn=unigramProbab(unigramPairsEn)
     bigramprobabListEn=bigramProbab(bigramPairsEn,unigramPairsEn)
     trigramprobabListEn=trigramProbab(triGramPairsEn,bigramPairsEn)
