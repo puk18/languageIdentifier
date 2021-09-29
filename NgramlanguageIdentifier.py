@@ -355,7 +355,6 @@ if __name__ == "__main__":
         print "UniProbab for english"+str((unigramProbabSentence(token,unigramprobabListEn)))
         print "UniProbab for French"+str((unigramProbabSentence(token,unigramprobabListFr)))
         print "UniProbab for German"+str((unigramProbabSentence(token,unigramprobabListGn)))        
-#        sentenceOutput(fileoutPut,token,unigramprobabListEn,unigramprobabListFr,unigramprobabListGn)
         print "biProbab for english"+str((bigramProbabSentence(bigramList,bigramprobabListEn)))
         print "biProbab for French"+str((bigramProbabSentence(bigramList,bigramprobabListFr)))
         print "biProbab for German"+str((bigramProbabSentence(bigramList,bigramprobabListGn)))
